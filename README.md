@@ -536,28 +536,32 @@ atau klik tombol **Start** pada Visual Studio.
 |     05    | —                                                | ⏳ Belum tersedia |
 
 ---
-
 ## 🚀 Pengembangan Selanjutnya
 
 Repository ini akan terus diperbarui seiring bertambahnya materi dan praktikum.
 
-Materi berikutnya akan ditambahkan secara bertahap sehingga repository dapat menjadi **catatan pembelajaran sekaligus dokumentasi project Pemrograman Visual**.
+Materi berikutnya akan ditambahkan secara bertahap sehingga repository ini dapat menjadi **catatan pembelajaran sekaligus dokumentasi project Pemrograman Visual**.
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Dibuat%20dengan-%E2%9D%A4-red?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Fathul%20Khair-241712073-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/STATUS-TERUS%20DIKEMBANGKAN-2ECC71?style=for-the-badge"/>
 </p>
 
 <p align="center">
-
-**Pemrograman Visual — D3 Teknik Informatika**
-
-**Universitas Sumatera Utara**
-
+  <b>💻 Pemrograman Visual</b><br>
+  <sub>D3 Teknik Informatika • Universitas Sumatera Utara</sub>
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+  <img src="https://img.shields.io/badge/NAMA-Fathul%20Khair-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NIM-241712073-FF6B6B?style=for-the-badge"/>
+</p>
+
+<p align="center">
+  <i>“Belajar, mencoba, memperbaiki, dan terus berkembang.”</i>
+</p>
+
+<p align="center">
+  ⭐ <b>Terima kasih telah mengunjungi repository ini!</b> ⭐
 </p>
