@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Pemrograman%20Visual&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Catatan%20%26%20Dokumentasi%20Praktikum%20Visual%20Basic%20.NET&descAlignY=58&descSize=18" width="100%"/>
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=00D9FF&center=true&vCenter=true&width=650&lines=Windows+Forms+%2B+VB.NET+%F0%9F%92%BB;Event-Driven+Programming+%E2%9A%A1;GUI+Application+Development+%F0%9F%8E%A8;Visual+Studio+%2B+.NET" alt="Typing SVG" />
+  <img src="banner.png" alt="Pemrograman Visual" width="100%">
 </p>
 
 <p align="center">
