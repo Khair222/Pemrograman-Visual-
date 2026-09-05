@@ -22,120 +22,120 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        lblNama = New Label()
-        txtNama = New TextBox()
-        lblNim = New Label()
-        txtNim = New TextBox()
-        lblKom = New Label()
-        txtKom = New TextBox()
-        btnTampilkan = New Button()
-        txtHapus = New Button()
-        btnKeluar = New Button()
+        LabelNama = New Label()
+        TxtNama = New TextBox()
+        LabelNIM = New Label()
+        TxtNIM = New TextBox()
+        LabelKOM = New Label()
+        TxtKOM = New TextBox()
+        BtnTampilkan = New Button()
+        BtnHapus = New Button()
+        BtnKeluar = New Button()
         SuspendLayout()
         ' 
-        ' lblNama
+        ' LabelNama
         ' 
-        lblNama.AutoSize = True
-        lblNama.Location = New Point(38, 30)
-        lblNama.Name = "lblNama"
-        lblNama.Size = New Size(68, 25)
-        lblNama.TabIndex = 0
-        lblNama.Text = "Nama :"
+        LabelNama.AutoSize = True
+        LabelNama.Location = New Point(51, 45)
+        LabelNama.Name = "LabelNama"
+        LabelNama.Size = New Size(68, 25)
+        LabelNama.TabIndex = 0
+        LabelNama.Text = "Nama :"
         ' 
-        ' txtNama
+        ' TxtNama
         ' 
-        txtNama.Location = New Point(108, 27)
-        txtNama.Name = "txtNama"
-        txtNama.Size = New Size(190, 31)
-        txtNama.TabIndex = 1
+        TxtNama.Location = New Point(129, 39)
+        TxtNama.Name = "TxtNama"
+        TxtNama.Size = New Size(150, 31)
+        TxtNama.TabIndex = 1
         ' 
-        ' lblNim
+        ' LabelNIM
         ' 
-        lblNim.AutoSize = True
-        lblNim.Location = New Point(38, 74)
-        lblNim.Name = "lblNim"
-        lblNim.Size = New Size(69, 25)
-        lblNim.TabIndex = 2
-        lblNim.Text = "Nim    :"
+        LabelNIM.AutoSize = True
+        LabelNIM.Location = New Point(51, 86)
+        LabelNIM.Name = "LabelNIM"
+        LabelNIM.Size = New Size(55, 25)
+        LabelNIM.TabIndex = 2
+        LabelNIM.Text = "NIM :"
         ' 
-        ' txtNim
+        ' TxtNIM
         ' 
-        txtNim.Location = New Point(108, 71)
-        txtNim.Name = "txtNim"
-        txtNim.Size = New Size(190, 31)
-        txtNim.TabIndex = 3
+        TxtNIM.Location = New Point(129, 79)
+        TxtNIM.Name = "TxtNIM"
+        TxtNIM.Size = New Size(150, 31)
+        TxtNIM.TabIndex = 3
         ' 
-        ' lblKom
+        ' LabelKOM
         ' 
-        lblKom.AutoSize = True
-        lblKom.Location = New Point(38, 120)
-        lblKom.Name = "lblKom"
-        lblKom.Size = New Size(58, 25)
-        lblKom.TabIndex = 4
-        lblKom.Text = "Kom :"
+        LabelKOM.AutoSize = True
+        LabelKOM.Location = New Point(50, 124)
+        LabelKOM.Name = "LabelKOM"
+        LabelKOM.Size = New Size(60, 25)
+        LabelKOM.TabIndex = 4
+        LabelKOM.Text = "KOM :"
         ' 
-        ' txtKom
+        ' TxtKOM
         ' 
-        txtKom.Location = New Point(108, 117)
-        txtKom.Name = "txtKom"
-        txtKom.Size = New Size(190, 31)
-        txtKom.TabIndex = 5
+        TxtKOM.Location = New Point(128, 117)
+        TxtKOM.Name = "TxtKOM"
+        TxtKOM.Size = New Size(150, 31)
+        TxtKOM.TabIndex = 5
         ' 
-        ' btnTampilkan
+        ' BtnTampilkan
         ' 
-        btnTampilkan.Location = New Point(38, 166)
-        btnTampilkan.Name = "btnTampilkan"
-        btnTampilkan.Size = New Size(112, 34)
-        btnTampilkan.TabIndex = 6
-        btnTampilkan.Text = "Tampilkan"
-        btnTampilkan.UseVisualStyleBackColor = True
+        BtnTampilkan.Location = New Point(128, 185)
+        BtnTampilkan.Name = "BtnTampilkan"
+        BtnTampilkan.Size = New Size(112, 34)
+        BtnTampilkan.TabIndex = 6
+        BtnTampilkan.Text = "Tampilkan"
+        BtnTampilkan.UseVisualStyleBackColor = True
         ' 
-        ' txtHapus
+        ' BtnHapus
         ' 
-        txtHapus.Location = New Point(172, 166)
-        txtHapus.Name = "txtHapus"
-        txtHapus.Size = New Size(112, 34)
-        txtHapus.TabIndex = 7
-        txtHapus.Text = "Hapus"
-        txtHapus.UseVisualStyleBackColor = True
+        BtnHapus.Location = New Point(260, 185)
+        BtnHapus.Name = "BtnHapus"
+        BtnHapus.Size = New Size(112, 34)
+        BtnHapus.TabIndex = 7
+        BtnHapus.Text = "Hapus"
+        BtnHapus.UseVisualStyleBackColor = True
         ' 
-        ' btnKeluar
+        ' BtnKeluar
         ' 
-        btnKeluar.Location = New Point(108, 220)
-        btnKeluar.Name = "btnKeluar"
-        btnKeluar.Size = New Size(112, 34)
-        btnKeluar.TabIndex = 8
-        btnKeluar.Text = "Keluar"
-        btnKeluar.UseVisualStyleBackColor = True
+        BtnKeluar.Location = New Point(129, 249)
+        BtnKeluar.Name = "BtnKeluar"
+        BtnKeluar.Size = New Size(112, 34)
+        BtnKeluar.TabIndex = 8
+        BtnKeluar.Text = "Keluar"
+        BtnKeluar.UseVisualStyleBackColor = True
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
-        Controls.Add(btnKeluar)
-        Controls.Add(txtHapus)
-        Controls.Add(btnTampilkan)
-        Controls.Add(txtKom)
-        Controls.Add(lblKom)
-        Controls.Add(txtNim)
-        Controls.Add(lblNim)
-        Controls.Add(txtNama)
-        Controls.Add(lblNama)
+        ClientSize = New Size(522, 450)
+        Controls.Add(BtnKeluar)
+        Controls.Add(BtnHapus)
+        Controls.Add(BtnTampilkan)
+        Controls.Add(TxtKOM)
+        Controls.Add(LabelKOM)
+        Controls.Add(TxtNIM)
+        Controls.Add(LabelNIM)
+        Controls.Add(TxtNama)
+        Controls.Add(LabelNama)
         Name = "Form1"
         Text = "Profil Mahasiswa"
         ResumeLayout(False)
         PerformLayout()
     End Sub
 
-    Friend WithEvents lblNama As Label
-    Friend WithEvents txtNama As TextBox
-    Friend WithEvents lblNim As Label
-    Friend WithEvents txtNim As TextBox
-    Friend WithEvents lblKom As Label
-    Friend WithEvents txtKom As TextBox
-    Friend WithEvents btnTampilkan As Button
-    Friend WithEvents txtHapus As Button
-    Friend WithEvents btnKeluar As Button
+    Friend WithEvents LabelNama As Label
+    Friend WithEvents TxtNama As TextBox
+    Friend WithEvents LabelNIM As Label
+    Friend WithEvents TxtNIM As TextBox
+    Friend WithEvents LabelKOM As Label
+    Friend WithEvents TxtKOM As TextBox
+    Friend WithEvents BtnTampilkan As Button
+    Friend WithEvents BtnHapus As Button
+    Friend WithEvents BtnKeluar As Button
 
 End Class

@@ -1,31 +1,31 @@
 ﻿Public Class Form1
-    Private Sub lblNim_Click(sender As Object, e As EventArgs) Handles lblNim.Click
+    Private Sub TextNama_TextChanged(sender As Object, e As EventArgs) Handles TxtNama.TextChanged
 
     End Sub
 
-    Private Sub btnTampilkan_Click(sender As Object, e As EventArgs) Handles btnTampilkan.Click
-        MessageBox.Show("Hello dunia!" & vbCrLf &
-                        "Nama :" & txtNama.Text & vbCrLf &
-                        "Nim :" & txtNim.Text & vbCrLf &
-                        "Kom :" & txtKom.Text
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles LabelNIM.Click
+
+    End Sub
+
+    Private Sub BtnTampilkan_Click(sender As Object, e As EventArgs) Handles BtnTampilkan.Click
+        MessageBox.Show("Hallo Selamat datang!" & vbCrLf &
+                        "Nama : " & TxtNama.Text & vbCrLf &
+                        "NIM : " & TxtNIM.Text & vbCrLf &
+                        "KOM : " & TxtKOM.Text
         )
     End Sub
 
-    Private Sub lblNama_Click(sender As Object, e As EventArgs) Handles lblNama.Click
+    Private Sub ProfilMahasiswa_Load(sender As Object, e As EventArgs) Handles MyBase.Load
 
     End Sub
 
-    Private Sub txtNama_TextChanged(sender As Object, e As EventArgs) Handles txtNama.TextChanged
-
+    Private Sub BtnHapus_Click(sender As Object, e As EventArgs) Handles BtnHapus.Click
+        TxtNama.Clear()
+        TxtNIM.Clear()
+        TxtKOM.Clear()
     End Sub
 
-    Private Sub txtHapus_Click(sender As Object, e As EventArgs) Handles txtHapus.Click
-        txtNama.Clear()
-        txtNim.Clear()
-        txtKom.Clear()
-    End Sub
-
-    Private Sub Button1_Click(sender As Object, e As EventArgs) Handles btnKeluar.Click
+    Private Sub BtnKeluar_Click(sender As Object, e As EventArgs) Handles BtnKeluar.Click
         Me.Close()
     End Sub
 End Class
