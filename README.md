@@ -538,25 +538,85 @@ atau klik tombol **Start** pada Visual Studio.
 ---
 ## 🚀 Pengembangan Selanjutnya
 
-Repository ini akan terus diperbarui seiring bertambahnya materi dan praktikum.
-
-Materi berikutnya akan ditambahkan secara bertahap sehingga repository ini dapat menjadi **catatan pembelajaran sekaligus dokumentasi project Pemrograman Visual**.
-
----
-
 <p align="center">
   <img src="https://img.shields.io/badge/STATUS-TERUS%20DIKEMBANGKAN-2ECC71?style=for-the-badge"/>
 </p>
 
 <p align="center">
-  <b>💻 Pemrograman Visual</b><br>
-  <sub>D3 Teknik Informatika • Universitas Sumatera Utara</sub>
+  Repository ini akan terus diperbarui seiring bertambahnya materi dan praktikum.<br>
+  Materi berikutnya akan ditambahkan secara bertahap sehingga repository ini dapat menjadi<br>
+  <b>catatan pembelajaran sekaligus dokumentasi project Pemrograman Visual.</b>
 </p>
 
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="33%">
+
+### 📚
+
+**Materi Bertahap**
+
+Materi praktikum akan ditambahkan secara bertahap sesuai dengan pertemuan.
+
+</td>
+
+<td align="center" width="33%">
+
+### 🎯
+
+**Catatan Pembelajaran**
+
+Berisi catatan, penjelasan, dan materi yang digunakan selama proses pembelajaran.
+
+</td>
+
+<td align="center" width="33%">
+
+### 💻
+
+**Dokumentasi Project**
+
+Mendokumentasikan source code dan hasil project Pemrograman Visual.
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <p align="center">
-  <img src="https://img.shields.io/badge/NAMA-Fathul%20Khair-6C63FF?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/NIM-241712073-FF6B6B?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DIBUAT%20DENGAN-%E2%9D%A4-FF4B5C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FATHUL%20KHAIR-6C63FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/NIM-241712073-4ECDC4?style=for-the-badge"/>
 </p>
+
+<br>
+
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+### 💻 Pemrograman Visual
+
+**D3 Teknik Informatika**
+
+</td>
+
+<td align="center" width="50%">
+
+### 📖 Fokus Pembelajaran
+
+**Visual Basic .NET**
+
+**Windows Forms**
+
+</td>
+</tr>
+</table>
+
+<br>
 
 <p align="center">
   <i>“Belajar, mencoba, memperbaiki, dan terus berkembang.”</i>
@@ -564,4 +624,8 @@ Materi berikutnya akan ditambahkan secara bertahap sehingga repository ini dapat
 
 <p align="center">
   ⭐ <b>Terima kasih telah mengunjungi repository ini!</b> ⭐
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
 </p>
