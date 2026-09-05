@@ -30,34 +30,34 @@ Partial Class Form1
         ' 
         ' btnInput
         ' 
-        btnInput.Location = New Point(306, 245)
+        btnInput.Location = New Point(246, 245)
         btnInput.Name = "btnInput"
-        btnInput.Size = New Size(112, 34)
-        btnInput.TabIndex = 1
+        btnInput.Size = New Size(100, 34)
+        btnInput.TabIndex = 0
         btnInput.Text = "Input"
         btnInput.UseVisualStyleBackColor = True
         ' 
         ' txtNilai
         ' 
-        txtNilai.Location = New Point(288, 208)
+        txtNilai.Location = New Point(246, 194)
         txtNilai.Name = "txtNilai"
-        txtNilai.Size = New Size(150, 31)
-        txtNilai.TabIndex = 2
+        txtNilai.Size = New Size(100, 31)
+        txtNilai.TabIndex = 1
         ' 
         ' picImage
         ' 
-        picImage.Location = New Point(288, 100)
+        picImage.Location = New Point(246, 68)
         picImage.Name = "picImage"
         picImage.Size = New Size(100, 100)
         picImage.SizeMode = PictureBoxSizeMode.Zoom
-        picImage.TabIndex = 3
+        picImage.TabIndex = 2
         picImage.TabStop = False
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(596, 450)
         Controls.Add(picImage)
         Controls.Add(txtNilai)
         Controls.Add(btnInput)
