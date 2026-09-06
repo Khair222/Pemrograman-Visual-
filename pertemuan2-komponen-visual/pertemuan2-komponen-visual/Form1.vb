@@ -3,7 +3,7 @@
 
     End Sub
 
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles LabelNIM.Click
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles LblNIM.Click
 
     End Sub
 
@@ -27,5 +27,9 @@
 
     Private Sub BtnKeluar_Click(sender As Object, e As EventArgs) Handles BtnKeluar.Click
         Me.Close()
+    End Sub
+
+    Private Sub LabelNama_Click(sender As Object, e As EventArgs) Handles LblNama.Click
+
     End Sub
 End Class
