@@ -24,9 +24,9 @@ Partial Class Form1
     Private Sub InitializeComponent()
         LblNama = New Label()
         TxtNama = New TextBox()
-        LblNIM = New Label()
+        LblNim = New Label()
         TxtNIM = New TextBox()
-        LblKOM = New Label()
+        LblKom = New Label()
         TxtKOM = New TextBox()
         BtnTampilkan = New Button()
         BtnHapus = New Button()
@@ -49,14 +49,14 @@ Partial Class Form1
         TxtNama.Size = New Size(150, 31)
         TxtNama.TabIndex = 1
         ' 
-        ' LblNIM
+        ' LblNim
         ' 
-        LblNIM.AutoSize = True
-        LblNIM.Location = New Point(156, 88)
-        LblNIM.Name = "LblNIM"
-        LblNIM.Size = New Size(55, 25)
-        LblNIM.TabIndex = 2
-        LblNIM.Text = "NIM :"
+        LblNim.AutoSize = True
+        LblNim.Location = New Point(156, 88)
+        LblNim.Name = "LblNim"
+        LblNim.Size = New Size(54, 25)
+        LblNim.TabIndex = 2
+        LblNim.Text = "Nim :"
         ' 
         ' TxtNIM
         ' 
@@ -65,14 +65,14 @@ Partial Class Form1
         TxtNIM.Size = New Size(150, 31)
         TxtNIM.TabIndex = 3
         ' 
-        ' LblKOM
+        ' LblKom
         ' 
-        LblKOM.AutoSize = True
-        LblKOM.Location = New Point(155, 126)
-        LblKOM.Name = "LblKOM"
-        LblKOM.Size = New Size(60, 25)
-        LblKOM.TabIndex = 4
-        LblKOM.Text = "KOM :"
+        LblKom.AutoSize = True
+        LblKom.Location = New Point(155, 126)
+        LblKom.Name = "LblKom"
+        LblKom.Size = New Size(58, 25)
+        LblKom.TabIndex = 4
+        LblKom.Text = "Kom :"
         ' 
         ' TxtKOM
         ' 
@@ -117,9 +117,9 @@ Partial Class Form1
         Controls.Add(BtnHapus)
         Controls.Add(BtnTampilkan)
         Controls.Add(TxtKOM)
-        Controls.Add(LblKOM)
+        Controls.Add(LblKom)
         Controls.Add(TxtNIM)
-        Controls.Add(LblNIM)
+        Controls.Add(LblNim)
         Controls.Add(TxtNama)
         Controls.Add(LblNama)
         Name = "Form1"
@@ -130,9 +130,9 @@ Partial Class Form1
 
     Friend WithEvents LblNama As Label
     Friend WithEvents TxtNama As TextBox
-    Friend WithEvents LblNIM As Label
+    Friend WithEvents LblNim As Label
     Friend WithEvents TxtNIM As TextBox
-    Friend WithEvents LblKOM As Label
+    Friend WithEvents LblKom As Label
     Friend WithEvents TxtKOM As TextBox
     Friend WithEvents BtnTampilkan As Button
     Friend WithEvents BtnHapus As Button

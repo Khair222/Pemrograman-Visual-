@@ -3,7 +3,7 @@
 
     End Sub
 
-    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles LblNIM.Click
+    Private Sub Label1_Click(sender As Object, e As EventArgs) Handles LblNim.Click
 
     End Sub
 
@@ -30,6 +30,10 @@
     End Sub
 
     Private Sub LabelNama_Click(sender As Object, e As EventArgs) Handles LblNama.Click
+
+    End Sub
+
+    Private Sub LblKOM_Click(sender As Object, e As EventArgs) Handles LblKom.Click
 
     End Sub
 End Class
