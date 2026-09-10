@@ -47,7 +47,4 @@
         End If
     End Sub
 
-    Private Sub lblNim_Click(sender As Object, e As EventArgs) Handles lblNim.Click
-
-    End Sub
 End Class
