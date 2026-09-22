@@ -74,7 +74,7 @@ Partial Class FrmArray
         ' lstNilai
         ' 
         lstNilai.FormattingEnabled = True
-        lstNilai.Location = New Point(561, 152)
+        lstNilai.Location = New Point(332, 12)
         lstNilai.Name = "lstNilai"
         lstNilai.Size = New Size(180, 129)
         lstNilai.TabIndex = 5
