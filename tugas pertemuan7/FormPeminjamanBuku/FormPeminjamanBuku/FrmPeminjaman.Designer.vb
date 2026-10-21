@@ -176,16 +176,16 @@ Partial Class FrmPeminjaman
         lstPeminjaman.FormattingEnabled = True
         lstPeminjaman.HorizontalScrollbar = True
         lstPeminjaman.IntegralHeight = False
-        lstPeminjaman.Location = New Point(474, 70)
+        lstPeminjaman.Location = New Point(466, 70)
         lstPeminjaman.Margin = New Padding(4, 5, 4, 5)
         lstPeminjaman.Name = "lstPeminjaman"
-        lstPeminjaman.Size = New Size(313, 275)
+        lstPeminjaman.Size = New Size(560, 297)
         lstPeminjaman.TabIndex = 23
         ' 
         ' btnEkspor
         ' 
         btnEkspor.CausesValidation = False
-        btnEkspor.Location = New Point(474, 355)
+        btnEkspor.Location = New Point(466, 377)
         btnEkspor.Margin = New Padding(4, 5, 4, 5)
         btnEkspor.Name = "btnEkspor"
         btnEkspor.Size = New Size(186, 50)
@@ -197,7 +197,7 @@ Partial Class FrmPeminjaman
         ' 
         lblStatus.Location = New Point(33, 400)
         lblStatus.Name = "lblStatus"
-        lblStatus.Size = New Size(576, 38)
+        lblStatus.Size = New Size(426, 38)
         lblStatus.TabIndex = 25
         lblStatus.Text = "Status dan jumlah peminjaman"
         ' 
@@ -209,7 +209,7 @@ Partial Class FrmPeminjaman
         ' 
         AutoScaleDimensions = New SizeF(10F, 25F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(800, 450)
+        ClientSize = New Size(1039, 450)
         Controls.Add(lblStatus)
         Controls.Add(lblKodeBuku)
         Controls.Add(lblJudul)
@@ -227,7 +227,7 @@ Partial Class FrmPeminjaman
         Controls.Add(btnEkspor)
         Controls.Add(lblJudulForm)
         Name = "FrmPeminjaman"
-        Text = "Form1"
+        Text = "Peminjaman Buku"
         CType(errPinjam, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
         PerformLayout()
