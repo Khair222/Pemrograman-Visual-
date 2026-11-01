@@ -1,0 +1,102 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|c:\\pemrograman-visual\\pertemuan7-validasi input, error handling \u0026 naming convention\\formpendaftaran\\formpendaftaran\\frmpendaftaran.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|solutionrelative:formpendaftaran\\frmpendaftaran.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|c:\\pemrograman-visual\\pertemuan7-validasi input, error handling \u0026 naming convention\\formpendaftaran\\formpendaftaran\\frmpendaftaran.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|solutionrelative:formpendaftaran\\frmpendaftaran.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|c:\\pemrograman-visual\\pertemuan7-validasi input, error handling \u0026 naming convention\\formpendaftaran\\formpendaftaran\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|solutionrelative:formpendaftaran\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|c:\\pemrograman-visual\\pertemuan7-validasi input, error handling \u0026 naming convention\\formpendaftaran\\formpendaftaran\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|solutionrelative:formpendaftaran\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|c:\\pemrograman-visual\\pertemuan7-validasi input, error handling \u0026 naming convention\\formpendaftaran\\formpendaftaran\\frmujikonversi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5775C56F-8A2B-4BED-80F1-5F282140382A}|FormPendaftaran\\FormPendaftaran.vbproj|solutionrelative:formpendaftaran\\frmujikonversi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmUtama.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmUtama.vb",
+              "RelativeDocumentMoniker": "FormPendaftaran\\FrmUtama.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmUtama.vb [Design]",
+              "RelativeToolTip": "FormPendaftaran\\FrmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T04:41:15.495Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmPendaftaran.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmPendaftaran.vb",
+              "RelativeDocumentMoniker": "FormPendaftaran\\FrmPendaftaran.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmPendaftaran.vb",
+              "RelativeToolTip": "FormPendaftaran\\FrmPendaftaran.vb",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAkwG0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T04:40:45.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPendaftaran.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmPendaftaran.vb",
+              "RelativeDocumentMoniker": "FormPendaftaran\\FrmPendaftaran.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmPendaftaran.vb [Design]",
+              "RelativeToolTip": "FormPendaftaran\\FrmPendaftaran.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T04:39:06.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmUtama.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmUtama.vb",
+              "RelativeDocumentMoniker": "FormPendaftaran\\FrmUtama.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmUtama.vb",
+              "RelativeToolTip": "FormPendaftaran\\FrmUtama.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwAsAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T03:44:07.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmUjiKonversi.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmUjiKonversi.vb",
+              "RelativeDocumentMoniker": "FormPendaftaran\\FrmUjiKonversi.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan7-Validasi Input, Error Handling \u0026 Naming Convention\\FormPendaftaran\\FormPendaftaran\\FrmUjiKonversi.vb [Design]",
+              "RelativeToolTip": "FormPendaftaran\\FrmUjiKonversi.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T04:32:43.648Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

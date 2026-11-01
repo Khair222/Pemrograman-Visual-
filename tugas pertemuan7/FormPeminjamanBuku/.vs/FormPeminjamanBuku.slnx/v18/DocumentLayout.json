@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemrograman-visual\\tugas pertemuan7\\FormPeminjamanBuku\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA715AC-EFFA-5200-14FB-E6E4A8CDB720}|FormPeminjamanBuku\\FormPeminjamanBuku.vbproj|c:\\pemrograman-visual\\tugas pertemuan7\\formpeminjamanbuku\\formpeminjamanbuku\\frmpeminjaman.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{5CA715AC-EFFA-5200-14FB-E6E4A8CDB720}|FormPeminjamanBuku\\FormPeminjamanBuku.vbproj|solutionrelative:formpeminjamanbuku\\frmpeminjaman.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CA715AC-EFFA-5200-14FB-E6E4A8CDB720}|FormPeminjamanBuku\\FormPeminjamanBuku.vbproj|c:\\pemrograman-visual\\tugas pertemuan7\\formpeminjamanbuku\\formpeminjamanbuku\\modulvalidasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{5CA715AC-EFFA-5200-14FB-E6E4A8CDB720}|FormPeminjamanBuku\\FormPeminjamanBuku.vbproj|solutionrelative:formpeminjamanbuku\\modulvalidasi.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmPeminjaman.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\tugas pertemuan7\\FormPeminjamanBuku\\FormPeminjamanBuku\\FrmPeminjaman.vb",
+              "RelativeDocumentMoniker": "FormPeminjamanBuku\\FrmPeminjaman.vb",
+              "ToolTip": "C:\\pemrograman-visual\\tugas pertemuan7\\FormPeminjamanBuku\\FormPeminjamanBuku\\FrmPeminjaman.vb [Design]",
+              "RelativeToolTip": "FormPeminjamanBuku\\FrmPeminjaman.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T14:56:24.186Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModulValidasi.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\tugas pertemuan7\\FormPeminjamanBuku\\FormPeminjamanBuku\\ModulValidasi.vb",
+              "RelativeDocumentMoniker": "FormPeminjamanBuku\\ModulValidasi.vb",
+              "ToolTip": "C:\\pemrograman-visual\\tugas pertemuan7\\FormPeminjamanBuku\\FormPeminjamanBuku\\ModulValidasi.vb",
+              "RelativeToolTip": "FormPeminjamanBuku\\ModulValidasi.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T15:00:15.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

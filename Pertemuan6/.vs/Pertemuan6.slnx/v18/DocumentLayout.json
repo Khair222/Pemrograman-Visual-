@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemrograman-visual\\Pertemuan6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EA4D6D-A8A4-EC7F-F214-7EE70536D539}|Pertemuan6\\Pertemuan6.vbproj|c:\\pemrograman-visual\\pertemuan6\\pertemuan6\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E2EA4D6D-A8A4-EC7F-F214-7EE70536D539}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EA4D6D-A8A4-EC7F-F214-7EE70536D539}|Pertemuan6\\Pertemuan6.vbproj|c:\\pemrograman-visual\\pertemuan6\\pertemuan6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E2EA4D6D-A8A4-EC7F-F214-7EE70536D539}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\modfunction.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EA4D6D-A8A4-EC7F-F214-7EE70536D539}|Pertemuan6\\Pertemuan6.vbproj|c:\\pemrograman-visual\\pertemuan6\\pertemuan6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E2EA4D6D-A8A4-EC7F-F214-7EE70536D539}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\modquery.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2EA4D6D-A8A4-EC7F-F214-7EE70536D539}|Pertemuan6\\Pertemuan6.vbproj|c:\\pemrograman-visual\\pertemuan6\\pertemuan6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{E2EA4D6D-A8A4-EC7F-F214-7EE70536D539}|Pertemuan6\\Pertemuan6.vbproj|solutionrelative:pertemuan6\\moddatabase.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\Pertemuan6\\Pertemuan6\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\pemrograman-visual\\Pertemuan6\\Pertemuan6\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "Pertemuan6\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABcAAAAAAAAAAAAQwB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T05:05:18.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ModFunction.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\Pertemuan6\\Pertemuan6\\ModFunction.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\ModFunction.vb",
+              "ToolTip": "C:\\pemrograman-visual\\Pertemuan6\\Pertemuan6\\ModFunction.vb",
+              "RelativeToolTip": "Pertemuan6\\ModFunction.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:29:34.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ModQuery.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\Pertemuan6\\Pertemuan6\\ModQuery.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\ModQuery.vb",
+              "ToolTip": "C:\\pemrograman-visual\\Pertemuan6\\Pertemuan6\\ModQuery.vb",
+              "RelativeToolTip": "Pertemuan6\\ModQuery.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:37:34.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModDatabase.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\Pertemuan6\\Pertemuan6\\ModDatabase.vb",
+              "RelativeDocumentMoniker": "Pertemuan6\\ModDatabase.vb",
+              "ToolTip": "C:\\pemrograman-visual\\Pertemuan6\\Pertemuan6\\ModDatabase.vb",
+              "RelativeToolTip": "Pertemuan6\\ModDatabase.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-23T04:07:28.932Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

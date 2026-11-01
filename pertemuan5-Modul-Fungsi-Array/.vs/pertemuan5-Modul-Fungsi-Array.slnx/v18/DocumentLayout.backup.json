@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemrograman-visual\\pertemuan5-Modul-Fungsi-Array\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFBA30-471C-9DF8-BFD4-B7A912E3A8F2}|pertemuan5-Modul-Fungsi-Array\\pertemuan5-Modul-Fungsi-Array.vbproj|c:\\pemrograman-visual\\pertemuan5-modul-fungsi-array\\pertemuan5-modul-fungsi-array\\frmarray.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{FEAFBA30-471C-9DF8-BFD4-B7A912E3A8F2}|pertemuan5-Modul-Fungsi-Array\\pertemuan5-Modul-Fungsi-Array.vbproj|solutionrelative:pertemuan5-modul-fungsi-array\\frmarray.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEAFBA30-471C-9DF8-BFD4-B7A912E3A8F2}|pertemuan5-Modul-Fungsi-Array\\pertemuan5-Modul-Fungsi-Array.vbproj|c:\\pemrograman-visual\\pertemuan5-modul-fungsi-array\\pertemuan5-modul-fungsi-array\\frmarray.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{FEAFBA30-471C-9DF8-BFD4-B7A912E3A8F2}|pertemuan5-Modul-Fungsi-Array\\pertemuan5-Modul-Fungsi-Array.vbproj|solutionrelative:pertemuan5-modul-fungsi-array\\frmarray.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmArray.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan5-Modul-Fungsi-Array\\pertemuan5-Modul-Fungsi-Array\\FrmArray.vb",
+              "RelativeDocumentMoniker": "pertemuan5-Modul-Fungsi-Array\\FrmArray.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan5-Modul-Fungsi-Array\\pertemuan5-Modul-Fungsi-Array\\FrmArray.vb [Design]",
+              "RelativeToolTip": "pertemuan5-Modul-Fungsi-Array\\FrmArray.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T13:30:18.211Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmArray.Designer.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan5-Modul-Fungsi-Array\\pertemuan5-Modul-Fungsi-Array\\FrmArray.Designer.vb",
+              "RelativeDocumentMoniker": "pertemuan5-Modul-Fungsi-Array\\FrmArray.Designer.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan5-Modul-Fungsi-Array\\pertemuan5-Modul-Fungsi-Array\\FrmArray.Designer.vb",
+              "RelativeToolTip": "pertemuan5-Modul-Fungsi-Array\\FrmArray.Designer.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-22T13:30:14.321Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\frmutama.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\frmcarilist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\frmcarilist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\frmcarilist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\frmcarilist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\moddatacontoh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\moddatacontoh.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\frmdatatable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\frmdatatable.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\modpencarian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\modpencarian.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\frmdarilist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\frmdarilist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\frmdariarray.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\frmdariarray.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\frmdarilist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\frmdarilist.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\mahasiswa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\mahasiswa.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|c:\\pemrograman-visual\\pertemuan8- datagridview, array \u0026 koleksi data\\datamahasiswa\\datamahasiswa\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{57303320-AD54-4BE3-8AC0-C353A6077858}|DataMahasiswa\\DataMahasiswa.vbproj|solutionrelative:datamahasiswa\\my project\\application.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmCariList.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmCariList.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\FrmCariList.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmCariList.vb",
+              "RelativeToolTip": "DataMahasiswa\\FrmCariList.vb",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowAoAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T09:19:32.762Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmCariList.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmCariList.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\FrmCariList.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmCariList.vb [Design]",
+              "RelativeToolTip": "DataMahasiswa\\FrmCariList.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T09:14:03.925Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ModDataContoh.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\ModDataContoh.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\ModDataContoh.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\ModDataContoh.vb",
+              "RelativeToolTip": "DataMahasiswa\\ModDataContoh.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T09:13:34.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmUtama.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmUtama.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\FrmUtama.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmUtama.vb [Design]",
+              "RelativeToolTip": "DataMahasiswa\\FrmUtama.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T08:05:08.194Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmDataTable.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmDataTable.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\FrmDataTable.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmDataTable.vb [Design]",
+              "RelativeToolTip": "DataMahasiswa\\FrmDataTable.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T08:54:35.173Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ModPencarian.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\ModPencarian.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\ModPencarian.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\ModPencarian.vb",
+              "RelativeToolTip": "DataMahasiswa\\ModPencarian.vb",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAkwBYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T08:54:09.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmDariList.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmDariList.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\FrmDariList.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmDariList.vb",
+              "RelativeToolTip": "DataMahasiswa\\FrmDariList.vb",
+              "ViewState": "AgIAADoAAAAAAAAAAAAkwEwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T08:46:39.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmDariList.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmDariList.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\FrmDariList.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmDariList.vb [Design]",
+              "RelativeToolTip": "DataMahasiswa\\FrmDariList.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T08:30:51.724Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmDariArray.vb [Design]",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmDariArray.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\FrmDariArray.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\FrmDariArray.vb [Design]",
+              "RelativeToolTip": "DataMahasiswa\\FrmDariArray.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T08:08:52.51Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Mahasiswa.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\Mahasiswa.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\Mahasiswa.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\Mahasiswa.vb",
+              "RelativeToolTip": "DataMahasiswa\\Mahasiswa.vb",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAwBIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T08:30:07.383Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Application.Designer.vb",
+              "DocumentMoniker": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\My Project\\Application.Designer.vb",
+              "RelativeDocumentMoniker": "DataMahasiswa\\My Project\\Application.Designer.vb",
+              "ToolTip": "C:\\pemrograman-visual\\pertemuan8- DataGridView, Array \u0026 Koleksi Data\\DataMahasiswa\\DataMahasiswa\\My Project\\Application.Designer.vb",
+              "RelativeToolTip": "DataMahasiswa\\My Project\\Application.Designer.vb",
+              "ViewState": "AgIAABYAAAAAAAAAAAAMwB4AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-10-21T08:25:55.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
